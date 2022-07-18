@@ -1,0 +1,85 @@
+bplist00�_WebMainResource�	
+_WebResourceMIMEType_WebResourceTextEncodingName^WebResourceURL_WebResourceFrameName_WebResourceDataYtext/htmlUUTF-8_2https://herdingcats.typepad.com/my_weblog/2020/12/PO)S<html><head>
+<title>Compendium of Resources of Mathematics for Project Management</title>
+<meta charset="UTF-8">
+<meta name="generator" content="DEVONtechnologies Markdownifier Service 1.0.4">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<style type="text/css">body, table { background-color: #FFF; color:#333; font-family: arial, sans-serif; font-weight: 100; font-size: 12pt; margin:2em 2em 2em 2em; }
+p, li { line-height: 150%; }
+h1, h2, h3 { color: #333; }
+a { color: #3a67e1; border-bottom: 1px dotted #3a67e1; text-decoration: none; }
+a:hover { color: #2647a3; border-bottom-color: color: #2647a3; }
+img { max-width: 100%; }
+figure { width: 100%; margin: 0px; }
+figure figcaption { display: none; }
+iframe { height: auto; width: auto; max-width: 100%; max-height: 100%; }</style>
+<link href="http://markdownifier.devontechnologies.com/default.css" rel="stylesheet" type="text/css"></head>
+<body>
+<div id="article">
+<p><a href="https://herdingcats.typepad.com/my_weblog/2020/12/compendium-of-resources-of-mathematics-for-project-management.html" title="Compendium of Resources of Mathematics for Project Management">herdingcats.typepad.com</a></p>
+
+<h1 id="compendiumofresourcesofmathematicsforprojectmanagement">Compendium of Resources of Mathematics for Project Management</h1>
+
+<p>This page is dedicated to the resources of the mathematics needed to successfully manage software-intensive systems and their related hardware and work processes when applying traditional and agile product development methods.</p>
+
+<p>These Books, Papers, and Thesis and other resources - for the most part - were retrieved from public sites and can be found with Google. Many of these resources were acquired during graduate school and then applied to problems I’ve worked on over the last decades.</p>
+
+<p><strong>Books</strong></p>
+
+<hr>
+
+<ul>
+<li><em>The Monte Carlo Simulation Method for System Reliability and Risk Analysis</em>, Enrico Zio, Springer, 2013.</li>
+<li><em>Theory of Zipf’s Law and Beyond</em>, Alexander Saichev, Yannick Malevergne, and Didier Sornette, Springer, 2010.</li>
+<li><em>Simulation Modeling Handbook: A Practical Approach</em>, Christopher A. Chung, CRC Press, 2004</li>
+<li><em>Queuing Networks and Markov Chains: Modeling Performance Evaluations with Computer Science Applications</em>, Gunter Bolch, Stefan Greiner, Hermann de Meer, and Kishor S. Trivedi, John Wiley, 1998.</li>
+<li><em>Quantitative Methods for Project Management</em>, John Goodpasture, J. Ross Publishing 2004</li>
+<li><em>Quantitative Methods for Project Management,</em> Dr. Frank T. Anbari, International Institute for Learning, 1997.</li>
+<li><em>Probability, Statistics, and Stochastic Processes</em>, Peter Olofsson and Mikael Andersson, John Wiley and Sons, May 2012.</li>
+<li><em>Probability, Random Processes, and Ergodic Properties</em>, Robert M. Gray, Springer-Verlag, Information Systems Laboratory, Department of Electrical Engineering, Stanford Unversity, 2001.</li>
+<li><em>Probability and Statistics for Engineers</em>, Fifth Edition, Richard L. Scheaffer, Madhuri S. Mulekar, and James T. McClave, Brooks/Cole, 2011.</li>
+<li><em>Introduction to Probability</em>, Charles M. Grinstead and J. Laurie Snell, American Mathematical Society; 2nd edition, July 1, 1997.</li>
+<li><em>Introduction to Probability with Statistical Applications</em>, Géza Schay, Birkhäuser, 2007.</li>
+<li><em>Probability and Statistics for Engineers and Scientists</em>, Fourth Edition, Sheldon Ross, Academic Press, 2009.</li>
+<li><em>Fundamentals of Probability and Statistics for Engineers</em>, T. T. Soong, Wiley, 2004.</li>
+<li><em>Deterministic Chaos: An Introduction</em>, Fourth Revised and Enlarged Edition, Heinz Georg Schuster and Wolfram Just, Wiley-VCH, 2005.</li>
+<li><em>Computational Methods for Process Simulation</em>, Second Edition, W. F. Ramirez, Butterworth Heinemann, 1997.</li>
+<li><em>Category Theory for Programmers</em>, Bartosz Milewski, Version 0.7.0, Aprile 2018, Creative Commons</li>
+<li><em>Project Estimating and Cost Management</em>, Parviz F. Rad, Management Concepts, 2002.</li>
+<li><em>Causal Inference in Statistics</em>, Judea Pearl, Wiley, 2016. - Making decisions while spending other people’s money, means making decisions in the presence of uncertainty. Classical statistics is needed, but since the information derived from these <em>statistics</em> is itself statistics, making inferences from this information requires statistics.</li>
+<li><em>The art of Modeling Dynamic Systems: Forecasting for Chaos, Randomness and Determinism</em>, Forst Morrison, Dover, 2008 - statistical methods and mathematical analysis can be used in mapping complex, unpredictable systems.</li>
+<li><em>Introduction to Stochastic Processes</em>, Paul Hoel, Sidney Port, and Charles Stone, Houghton Mifflin, 1972. - stochastic processes are any collection of random variables, defined on a common probability space. Project variable many times behave as a stochastic process. Work effort, task durations, propagation of risk or faults in a system. Modeling these processes is important for project management.</li>
+<li><em>Probability, Statistics, and Queueing Theory with Computer Science Applications</em>, Arnold O. Allen, Academic Press, 1978 - probability and queues are everywhere in project management. Process flow modeling, performance management, work planning follow queuing theories.</li>
+<li><em>How to Lie With Statistics</em>, Darrell Huff, 1954 - this book is a must for any project manager. First to protect from false statistical arguments made everywhere. Second to learn how to avoid these statistical fallacies.</li>
+<li><em>Statistics: A Very Short Introduction</em>, David J. Hand, Oxford, 2008 - a short introduction to the statistics needed to managing anything in the presence of uncertainty.</li>
+<li><em>How Not To Be Wrong: The Power of Mathematical Thinking</em>, Jordon Ellenberg, The Penguin Press, 2014 - there is plenty of _bad mathematical thinking _on projects. From No Estimates to qualitative risk management. Here’s a start on learning to move beyond those poor thinking processes.</li>
+<li><em>Time Series</em>, 3rd Edition, Maurice Kendall and J. Keith Ord, Oxford University Press, 1990. - data on projects arrives as a <em>time series</em> and needs to be analyzed as a _time series_<em>.</em> A common mistake is to use <em>averages</em> without understanding the <em>flaws of averages</em>. Here’s the start for fixing this gap.</li>
+</ul>
+
+<p><strong>Papers</strong></p>
+
+<hr>
+
+<ul>
+<li>“<a href="https://dspace.mit.edu/bitstream/handle/1721.1/47244/distributionalfo00keil.pdf?sequence=1">**A Distributional Form of Little’s Law</a>**,” J. Keilson and L. D. Servl, December 1987.</li>
+<li>“<a href="https://apps.dtic.mil/dtic/tr/fulltext/u2/785623.pdf">**On The Arithmetic Means and Variances of Products and Ratios of Random Variables</a>**,” Fred Frishman, Army Research Office, 1971.</li>
+<li>“<a href="https://pdfs.semanticscholar.org/31e6/341b7d7c44f8370436d093e68914d31dd8f4.pdf">**The Central Limit Theorem: Use with Caution</a>**,” R. L. Fante, The MITRE Corporation</li>
+<li>“<a href="http://www.stats.ox.ac.uk/~steffen/teaching/grad/definetti.pdf">**Exchangeability and de Finetti’s Theorem</a>**,” Steffen Lauritzen, University of Oxford, April 26, 2007</li>
+<li>“<a href="https://ncss-wpengine.netdna-ssl.com/wp-content/themes/ncss/pdf/Procedures/NCSS/The_Box-Jenkins_Method.pdf">**ARIMA - Box Jenkins</a>**,” Chapter 470 NCSS Statistical Software, NCSS.COM</li>
+<li>"<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/%28SICI%291099-131X%28199705%2916%3A3%3C147%3A%3AAID-FOR652%3E3.0.CO%3B2-X">**ARIMA Models and the Box Jenkins Methodology</a><strong>," S. Makridakis and M. Hibon, an INSEAD working paper, 1995 - <strong>A</strong>uto-</strong>R<strong>egressive-</strong>I<strong>ntegrated-</strong>M<strong>oving-</strong>A**verage is a powerful tool for model random processes to produce an understanding of <em>what might happen in the future given past performance</em>.</li>
+<li>“<a href="https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.200.5272&amp;rep=rep1&amp;type=pdf">**George Box: An interview with the International Journal of Forecasting</a>**_,” _Daniel Pena, 17, 2001</li>
+<li>“<a href="https://www.researchgate.net/publication/246213178_Forecasting_and_Time_Series_Analysis_Using_the_SCA_Statistical_System">**Forecasting and Timeseries Analysis Using the SCA Statistical System, Volume 1</a>**” Lon-Mu Liu, Gregory B. Hudak, Scientific Computing Associates Corp. 913 West Van Buren Street, Suite 3H Chicago, Illinois 60607–3528 U.S.A.</li>
+<li>“<a href="https://www.math.mun.ca/~aoyet/stat3540/LectureNotes/notes3540_4.pdf">**Non-Seasonal Box-Jenkins Models</a>**,”</li>
+<li>“<a href="https://www.researchgate.net/publication/228970436_THE_SVM_APPROACH_FOR_BOX-JENKINS_MODELS">**The SVM Approach for Box-Jenkins Models</a>**,” Saied Amiri, Dietrich von Rosen, and Silvelyn Zwangzig, <em>Statistical Journal</em>, Volume 7, Number 1, April 2009, pp. 23–36</li>
+<li>“<a href="https://www.americanscientist.org/article/the-most-dangerous-equation">**The Most Dangerous Equation: Ignorance of how sample size affects statistical variation has created havoc for nearly a millennium</a>**,” Howard Wainer, American Scientist, May-June, 2007.</li>
+<li>“Estimating Average Production Intervals Using Inventory Measurements: Litle’s Law for Partially Observable Processes,” Ardavan Nozari and Ward Whitt, <em>Operations Research in Manufacturing</em>, April 1988, pp. 308–323.</li>
+<li>“<a href="https://www.cmg.org/wp-content/uploads/2013/06/m_100_61.pdf">**Little’s Law Assumptions: "But I Still Wanna Use It!</a>**” The Goldilocks Solutions to Sozong the System for Non-Steady-State Dynamics," Alex Gilgur,</li>
+<li>“Chapter 5: Little’s Law,” John D. C. Litle and Stephen C. Graves, Massachusettes Institute of Technology.</li>
+<li>“Little’s Law as Viewed on its 50th Anniversary,” John D. C. Little, <em>Operations Research</em>, Vol. 59, No. 3, May-June, 2011, pp. 536–549.</li>
+<li>“Project Planning using Little’s Law,” Dimitar Bakardzhiev, Taller Technologies, Bulgaria.</li>
+<li>“<a href="http://www.columbia.edu/~ww2040/LL_OR.pdf">**Statistical Analysis with Little’s Law</a>**,” Song-Hee Kim and Ward Whitt, <em>Operations Research</em>, Vol. 61, No. 4, July-August 2013, pp. 1030–1045</li>
+</ul>
+
+</div>
+
+</body></html>    ( > \ k � � � � � �                           *1

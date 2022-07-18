@@ -1,0 +1,157 @@
+bplist00�_WebMainResource�	
+_WebResourceData_WebResourceMIMEType_WebResourceTextEncodingName^WebResourceURL_WebResourceFrameNameOTb<html><head>
+<title>Agile as Trauma — Dorian Taylor</title>
+<meta charset="UTF-8">
+<meta name="generator" content="DEVONtechnologies Markdownifier Service 1.0.4">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<style type="text/css">body, table { background-color: #FFF; color:#333; font-family: arial, sans-serif; font-weight: 100; font-size: 12pt; margin:2em 2em 2em 2em; }
+p, li { line-height: 150%; }
+h1, h2, h3 { color: #333; }
+a { color: #3a67e1; border-bottom: 1px dotted #3a67e1; text-decoration: none; }
+a:hover { color: #2647a3; border-bottom-color: color: #2647a3; }
+img { max-width: 100%; }
+figure { width: 100%; margin: 0px; }
+figure figcaption { display: none; }
+iframe { height: auto; width: auto; max-width: 100%; max-height: 100%; }</style>
+<link href="http://markdownifier.devontechnologies.com/default.css" rel="stylesheet" type="text/css"></head>
+<body>
+<div id="article">
+<p><a href="https://doriantaylor.com/agile-as-trauma" title="Agile as Trauma — Dorian Taylor">doriantaylor.com</a></p>
+
+<h1 id="agileastrauma—doriantaylor">Agile as Trauma — Dorian Taylor</h1>
+
+<p>The <a href="https://agilemanifesto.org/">Agile Manifesto</a> is an immune response on the part of programmers to bad management. The document is <a href="https://agilemanifesto.org/history.html">an expression of trauma</a>, and its intellectual descendants continue to carry this baggage. While the Agile era has brought about remarkable advancements in project management techniques and development tools, it remains a tactical, technical, and ultimately reactionary movement. As long as Agile remains in this position it will be liable to backfire, vulnerable to the very depredations of bad management it had initially evolved to counter.</p>
+
+<p>In order to begin to heal, it is important to place Agile in a wider context. Many of the substantive ideas associated with Agile predate it by between about 20 and 30 years. This is not an accusation of plagiarism; rather it is an assertion that there are idiosyncrasies of software development that are invariant even as technique and technology improves, and so you are bound to recapitulate these patterns eventually. The patterns include, but are not necessarily limited to:</p>
+
+<dl>
+<dt>Incremental development</dt>
+<dd>Software is created in modules: Just as books are composed of chapters, which are composed of sections, paragraphs, and sentences, which themselves—in code as in text—are laid out word by word. Basic structures cannot be composed into larger structures unless they themselves are internally consistent, and so the creation of software, just like any artifact of language, is naturally incremental.</dd>
+
+<dt>Iterative development</dt>
+<dd>Not to be confused with <em>incremental</em> development. Software is a very verbose, very precise <em>incantation</em> of how an information system ought to <em>behave</em>. The entire process reduces to gaining information <em>about</em> the information <em>system</em> and gelling it into formal language—a process that will never naturally terminate if you continue to provide it with resources: you can <em>always</em> go back and refine what you have written, and the need for <em>some</em> revisitation over time is the rule.</dd>
+
+<dt>Cross-functional teams</dt>
+<dd>Because software development reduces to gathering and concentrating information, it is obvious that that information will come from various sources, and the people responsible for said gathering and concentrating will have different expertise. Also, programming itself is a quasi-solipsistic activity. A programmer <em>requires</em>, strictly speaking, no more collaboration than does a novelist or painter. Because software development is naturally incremental, people can work on different parts of a system in parallel. This naturally lends itself to variegated expertise among programmers themselves.</dd>
+
+<dt>Fixed time, variable scope</dt>
+<dd>Just like content development in any other medium, software development reduces to the elimination of entropy. <em>Unlike</em> other media, however, there is very little else to <em>count</em>. The problem is that you and/​or your team can only eliminate a fixed-ish number of bits of entropy per unit time, and at the outset you don’t know how many bits there are in the problem to eliminate. So you say we’re gonna work <em>this</em> much, and whatever comes out the other end of that process is whatever you get. In the current theory, and sometimes in practice, this is how sprints are supposed to work, and the material that doesn’t fit is accumulated into some backlog or other.</dd>
+
+<dt>User involvement</dt>
+<dd>Since the purpose of software is putatively to serve users, it should not be surprising that users constitute an essential source of information, up to and including their interactions with prototypes and as paying customers of what has come to be called a minimum viable product.</dd>
+</dl>
+
+<p>To the extent that trauma is by definition something you don’t get over, and only eventually come to understand, I submit that the Agile-o-sphere continually relitigates these issues at the expense of solving other, potentially more fruitful problems.</p>
+
+<h2 id="whatwehearsuspiciouslymuchabout">What We Hear Suspiciously Much About</h2>
+
+<p><strong>Collaboration!</strong> <em>So</em> much effort goes into writing and talking about collaboration, and creating tools to facilitate collaboration and telecollaboration, with the tacit assumption that more collaboration is always better. <a href="http://www.oopsla.org/podcasts/Keynote_FrederickBrooks.mp3#t=535">To quote Frederick Brooks</a>, the more collaboration the better is far from a self-evident proposition and certainly not universally true. <em>True indeed</em>, to the extent that collaboration divides labour, but questionable as a fraction of one’s <em>activity</em>. Since communication overhead <a href="https://en.wikipedia.org/wiki/Brooks%27s_law">increases proportionally the_square_ of the number of people</a> on the team—a fact illuminated by Brooks in the 1970s—what you actually want is as <em>little</em> collaboration as you can get away with.</p>
+
+<p>One way all this lavish attention to collaboration makes sense, is that your team dynamic is something you can always affect, even if you have no meaningful influence over the major strategic decisions of an organization.</p>
+
+<h2 id="whatwedonthearalotabout">What We Don’t Hear A Lot About</h2>
+
+<p>I’m sure these things <em>exist</em> in some form or other; the point is they don’t get nearly as much attention.</p>
+
+<dl>
+<dt>Anything higher up the chain than project management</dt>
+<dd>In 20 years, Agile has given us standup meetings, sprints, pair programming, user stories, DevOps, and continuous integration. This is all tactical stuff. <a href="https://www.youtube.com/watch?v=zTGX98HmXtg">Contracting gets a little attention</a>, but <em>nothing</em> like the attention heaped onto project management on down. Where are the people thinking and talking about Agile <em>procurement</em>, for example? Or Agile enterprise resource planning? This is important, because failures to implement Agile principles are often easily diagnosed as side effects of the constraints of antiquated procurement and contracting practices.</dd>
+
+<dt><a href="https://www.youtube.com/watch?v=dDE_y7Qri9w">A specificity gradient</a></dt>
+<dd></dd>
+</dl>
+
+<p>Software is unprecedented in its low cost of development—when compared to hardware. Code, however, is arguably the most <em>expensive</em> medium for expressing ideas. <a href="https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp">The popular meme</a> of maturing a product from skateboard, to bike, to motorcycle, to car is a cute story, but the way software tends to <em>actually</em> be made is more like going from engine, to drivetrain, to monocoque, to interior.</p>
+
+<p>Except software isn’t like a car at all: if anything it’s more like <a href="https://www.amazon.com/dp/0195018249?tag=doriantaylor-20">a university campus</a>, where different buildings are complete artifacts in their own right but loosely couple together to form a unified service. It is perfectly reasonable for some parts to be undergoing construction while others are being planned. Taken as a whole at any given moment, some parts of the system will have more detail and others will have less. Our notions of iteration and incrementality therefore have to also make room for media other than code.</p>
+
+<dl>
+<dt>Conceptual friggin’ integrity</dt>
+<dd></dd>
+</dl>
+
+<p>The one idea from the 1970s most conspicuously absent from Agile discourse is conceptual integrity. This—another contribution from Brooks—is roughly the state of having a unified mental model of both the project <em>and</em> the user, shared among all members of the team. Conceptual integrity makes the product both easier to develop and easier to use, because this integrity is communicated to both the development team <em>and</em> the user, <em>through</em> the product.</p>
+
+<p>Without conceptual integrity, Brooks said, there will be as many mental models as there are people on the team. This state of affairs <strong>requires <em>somebody</em> to have the final say</strong> on strategic decisions. It furthermore requires this person to have diverse enough expertise to mentally circumscribe—and thus have a <em>vision</em> for—the <em>entire</em> project in every way that was important, even if not precisely down to the last line of code.</p>
+
+<h2 id="agilevs.waterfalliskayfabe9">Agile vs. Waterfall is <a href="https://en.wikipedia.org/wiki/Kayfabe">Kayfabe</a></h2>
+
+<p>Any Agile adherent can tell you that Waterfall is <em>bad</em>, and that if you aren’t doing Agile, you must necessarily be doing Waterfall. It is clear, however, that comparatively few have actually <em>read</em> the 1970 Waterfall <em>paper</em>. If they <em>had</em>, they would learn that what they had experienced—or more likely, heard about—was what the paper’s author asserted was the <em>wrong</em> way to manage a software project. One may even be led to interrogate just <em>why</em> it is that such a known-bad practice is what developers ended up using for so many years.</p>
+
+<p>There is the story that so-called big design up front—another Agile shibboleth—was more of a necessity in the past because:</p>
+
+<ul>
+<li>available computing resources were a minuscule fraction of what they are today, and thus required more planning,</li>
+<li>programming was just plain slower, and</li>
+<li>distribution logistics—shipping on physical tapes, floppy disks, ROM cartridges, CDs—put a cap on the release cycle.</li>
+</ul>
+
+<p>There is furthermore the argument that the product in question must get to market as quickly as possible to secure the first-mover advantage, or perhaps in its gentler form, the idea has to be tested in the market right away to make sure it’s something people want. None of these statements are false, but they aren’t the whole truth either.</p>
+
+<p>In particular, not all software is a Web app. Indeed, a sizable fraction of software is not a consumer product, or not even a product at all. We discount the volume of, for instance, embedded systems and one-off infrastructure. The former have a release cycle pinned to their host hardware; the latter you can update whenever it’s sufficiently convenient. Both categories of software existed 50 years ago as they do today, and will continue to exist into the foreseeable future: In 2020 there are plenty of systems that are effectively un-updateable; in 1970 there were plenty of systems where you could inject new code straight into a running program.</p>
+
+<p>The story that things were slow and now they’re fast—technology and market forces alike—is not sufficient to explain the pervasive adoption of what has come to be called <em>Waterfall</em>. The story is especially ill-fitting considering preeminent figures in software development had been advocating incremental and iterative development with feedback from users, up to and including the original 1970 Waterfall paper itself.</p>
+
+<p>I want you to consider instead the possibility that Waterfall came to exist, and continues to exist, for the convenience of <em>managers</em>: people whose <a href="https://www.amazon.com/dp/0674940520?tag=doriantaylor-20">methods are inherited</a> from <a href="https://www.amazon.com/dp/0674057597?tag=doriantaylor-20">military and civil engineering</a>, and who, more than anything else, need you to promise them something <em>specific</em>, and then deliver <em>exactly</em> what you promised them, <em>when</em> you promised you’d deliver it. There exists many a corner office whose occupant, if forced to choose, will take an absence of surprises over a substantive outcome.</p>
+
+<p>This alternative theory would further explain the RFPs that go out that insist on Agile processes while also demanding a formal specification up front with a detailed prescription of feature milestones—or as they like to call them, _phases_—and their concomitant deadlines.</p>
+
+<p>My final remark on this subject is that the rhetorical framing around <em>design</em> as something inherently belonging to Waterfall, and thus <em>bad</em> and an impediment to shipping product. This is little more than a goad, perpetrated not so much by professional managers, but anxious startup founders worried about their money running out before they start earning any. Software development, again, is about answering thousands of questions. Some of those questions can only be answered with code; others can never be. There is nothing preventing these operations from being carried out in parallel, except when one genuinely depends on the completion of the other.</p>
+
+<p>A feature is a unit of programmer output that corresponds roughly to a subroutine. Features work as a management control because they manifest in the final product, and their relationship to programmer-hours is about as close to linear as you’re going to get.</p>
+
+<p>Features also work for marketing. Since nobody can deny a feature exists, a convenient tactic is just to count them: Over 100 new features in our latest release! Any time, likewise, the messaging reads something like our product lets you…, they’re talking about features. Indeed, marketing departments everywhere would be adrift without the venerable feature to fall back on.</p>
+
+<p>Features <em>don’t</em> work, in the sense that they can be easily <em>gamed</em>. A brittle and perfunctory implementation, done quickly, is going to score more intramural brownie points over a robust and complete one. If the question is does product A have feature X? then the answer is <em>yes</em> either way. This also makes features a spurious basis for comparison in competing products because you need to seriously examine them to determine the extent to which they are any good.</p>
+
+<p>We use the term feature factory as a pejorative to designate companies addicted to adding features, while accumulating incalculable so-called technical debt. This situation is driven by management for the convenience of marketing, and I am skeptical that a more faithful application of Agile principles will correct it. Indeed, I suspect Agile processes are constitutionally vulnerable to this kind of compromise.</p>
+
+<p>There is, however, another objectively countable phenomenon associated with software development, and that is <em>behaviour</em>. The question does the product do X, optionally under condition Y? is <em>also</em> an empirical question with a yes-or-no answer. Programmers should be familiar with this pattern; it is exactly how test suites are written.</p>
+
+<p>Behaviour has an advantage over features in that you can describe any feature in terms of behaviour, but you can’t describe behaviour in terms of features. This is because features are visible while the software is sitting still, whereas behaviour is only visible while the software is running. Moreover, the presence of a feature can only indicate to a user if a goal is <em>possible</em>, behaviour will determine how painful it will be to achieve it.</p>
+
+<p>The final advantage of behaviour that I will discuss here is the fact that it blurs the line between fixing bugs and building features, and coalesces the two into a unitary process of sculpting behaviour. The feature count may not go up as quickly, but the product’s behaviour will increase steadily in subtlety and fit. My bet is also that behaviour is less amenable to be gamed because any attempt is going to look really obvious and silly. The marketing department can fend for themselves mining the corpus for identifiable features; they pretty much do that already anyway.</p>
+
+<h2 id="whenisasprintreallyamarathon">When is a Sprint Really a Marathon?</h2>
+
+<p>Like any other creative endeavour, software development can’t be <em>sped up</em> as much as we can eliminate the phenomena that <em>slow it down</em>. Advancements in process and tooling, and the computing resources to run them, can be interpreted as doing exactly this. The result is that developers can spend a larger fraction of their time on application logic. The application logic itself gets coarser and coarser-grained with each passing year. Ideally, you could just tell the computer what you want and it would fabricate it, but if you could do this, then there would be no need for programmers.</p>
+
+<p>Even in a world after programmers, there will still be the work of figuring out—albeit no longer in _code_—just <em>what</em> you want to tell the computer to do for you—_how_ you want it to behave. There are still a <em>lot</em> of decisions to make aside from what framework you write it in, or whether you use NoSQL, or how you lay out the source tree. If you eliminate the decisions that involve getting the artifact to work at <em>all</em>, the remaining decisions are going to involve whether it works better one way than another. Most of these decisions are going to be the result of trial and error, and a sizable chunk of <em>those</em> are going to involve feedback from users.</p>
+
+<p>It helps to know that people were uncovering better ways of developing software long before the Agile Manifesto was written, because it puts it into context. It enables us to understand the constitutional limitations and consider how to grow beyond them.</p>
+
+<p>A development paradigm that can be construed from the outside as setting great store by speed—or, I suppose, _velocity_—is invariably going to be under continuous political and economic pressure to accelerate. It isn’t clear from the literature that this was anticipated by the Manifesto’s signatories. If instead you asserted that the work amounts to continual discovery, it happens at <em>one</em> speed, and could potentially continue indefinitely, you might be able to pace yourself.</p>
+
+<h2 id="furtherreading">Further Reading</h2>
+
+<p>These papers and books advocating principles recognizable in Agile literature are ones I have personally encountered. I am sure there are more.</p>
+
+<dl>
+<dt>1970: <a href="http://www-scf.usc.edu/~csci201/lectures/Lecture11/royce1970.pdf">Managing the Development of Large Software Systems</a></dt>
+<dd>The original Waterfall paper by <a href="https://en.wikipedia.org/wiki/Winston_W._Royce">Winston Royce</a>, in which he introduces the Waterfall model as an obvious and deliberate straw man, and makes a pretty clear case for a feedback loop.</dd>
+
+<dt>1971: <a href="http://sunnyday.mit.edu/16.355/wirth-refinement.html">Program Development by Stepwise Refinement</a></dt>
+<dd>An important paper on iteration by <a href="https://en.wikipedia.org/wiki/Niklaus_Wirth">Niklaus Wirth</a>.</dd>
+
+<dt>1975: <a href="https://www.amazon.com/dp/0201835959?tag=doriantaylor-20">The Mythical Man-Month</a></dt>
+<dd>The quintessential volume on software design and project management, by <a href="https://en.wikipedia.org/wiki/Fred_Brooks">Frederick Brooks</a>.</dd>
+
+<dt>1980: <a href="https://ieeexplore.ieee.org/document/1456074">Programs, Life Cycles, and Laws of Software Evolution</a></dt>
+<dd>One of the agglomerating papers on Meir <a href="https://en.wikipedia.org/wiki/Lehman%27s_laws_of_software_evolution">Lehman’s Laws of Software Evolution</a>, which date back to 1974.</dd>
+
+<dt>1981: <a href="https://www.amazon.com/dp/0138221227?tag=doriantaylor-20">Software Engineering Economics</a></dt>
+<dd>Most of this 800-page tome by <a href="https://en.wikipedia.org/wiki/Barry_Boehm">Barry Boehm</a> is about estimating Waterfall-esque projects, but the introductory chapters deal with, among other things, uncertainty and feedback from users.</dd>
+
+<dt>1988: <a href="https://ieeexplore.ieee.org/document/59">A Spiral Model of Software Development and Enhancement</a></dt>
+<dd>A subsequent meditation by Boehm on incrementalism, iteration and risk.</dd>
+</dl>
+
+<p>I should also note that while it is somewhat obliquely related to the content of this particular document, the thing that got me exercised enough to write it is a podcast episode by <a href="https://twitter.com/lauraklein">Laura Klein</a> and <a href="https://twitter.com/katerutter">Kate Rutter</a>, <a href="https://www.usersknow.com/podcast/2020/1/14/problems-with-agile-ux">Problems with AgileUX</a>.</p>
+
+<p>[*UX]: user experience design
+ [*RFPs]: Request for Proposals</p>
+
+</div>
+
+</body></html>Ytext/htmlUUTF-8_https://doriantaylor.com/P    ( : P n } �T�UU
+U&                           U'
